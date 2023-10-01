@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: MyString
+  start_date: 2023-10-01
+  end_date: 2023-10-01
+  total_people: 1
+  budget: 9.99
+
+two:
+  destination: MyString
+  start_date: 2023-10-01
+  end_date: 2023-10-01
+  total_people: 1
+  budget: 9.99

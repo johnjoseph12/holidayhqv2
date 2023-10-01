@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip: one
+  airport: MyString
+  departure_time: 2023-10-01 01:02:26
+  arrival_time: 2023-10-01 01:02:26
+  airline: MyString
+
+two:
+  trip: two
+  airport: MyString
+  departure_time: 2023-10-01 01:02:26
+  arrival_time: 2023-10-01 01:02:26
+  airline: MyString
